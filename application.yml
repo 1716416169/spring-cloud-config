@@ -1,4 +1,6 @@
 spring:
+  config:
+    name: demo1   
   profiles:
     active: dev
 ---
